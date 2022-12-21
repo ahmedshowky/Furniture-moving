@@ -9,6 +9,11 @@
     font-style: normal;
     font-display: swap;
 }
+body{
 
-
+    font-family: 'Droid Arabic Kufi' !important;
+}
+.pinkTx{
+color: rgb(173, 11, 11);    
+}
 
